@@ -1,123 +1,93 @@
 # Engineering Chemistry
 
-Welcome to the Engineering Chemistry repository! This repository contains the syllabus, notes, assignments, and past papers for the Engineering Chemistry course. This document outlines the detailed syllabus for each module in the course.
+Welcome to the Engineering Chemistry repository! This repository contains notes, assignments, and previous year question papers for the Engineering Chemistry course.
+
+## Contents
+
+- **Notes:** Comprehensive notes covering all the key topics in Engineering Chemistry.
+- **Assignments:** A collection of past assignments with detailed questions and solutions.
+- **Previous Year Question Papers:** Past examination papers to aid in exam preparation.
 
 ## Syllabus
 
 ### Module 1: Chemical Thermodynamics and Kinetics
-- **Laws of Thermodynamics**
-- **Entropy change** (selected processes)
-- **Spontaneity of a chemical reaction**
-- **Gibbs free energy**
-- **Heat transfer**
-- **Kinetics**
-  - Concept of activation energy and energy barrier
-  - Arrhenius equation
-  - Effect of catalysts
-    - Homogeneous
-    - Heterogeneous
-  - Enzyme catalysis
-    - Michaelis-Menten Mechanism
+- Laws of Thermodynamics
+- Entropy Change (Selected Processes)
+- Spontaneity of a Chemical Reaction
+- Gibbs Free Energy
+- Heat Transfer
+- Kinetics: Activation Energy and Energy Barrier
+- Arrhenius Equation
+- Effect of Catalysts: Homogeneous, Heterogeneous, Enzyme Catalysis (Michaelis-Menten Mechanism)
 
 ### Module 2: Metal Complexes and Organometallics
-- **Inorganic Complexes**
-  - Structure
-  - Bonding
-  - Applications
-- **Organometallics**
-  - Introduction
-  - Stability
-  - Structure
-  - Applications of:
-    - Metal carbonyls
-    - Ferrocene
-    - Grignard reagents
-- **Metals in Biology**
-  - Haemoglobin
-  - Chlorophyll
-  - Structure and properties
+- Inorganic Complexes: Structure, Bonding, Applications
+- Organometallics: Introduction, Stability, Structure
+- Applications of Metal Carbonyls, Ferrocene, Grignard Reagents
+- Metals in Biology: Haemoglobin, Chlorophyll (Structure and Properties)
 
 ### Module 3: Organic Intermediates and Reaction Transformations
-- **Organic Intermediates**
-  - Stability and structure of:
-    - Carbocations
-    - Carbanions
-    - Radicals
-- **Aromatics and Heterocycles**
-  - Aromaticity
-  - Heterocycles (3, 4, 5, 6 membered and fused systems)
-- **Organic Transformations**
-  - Making useful drugs for specific disease targets (two examples)
-  - Dyes (addition, elimination, substitution, and cross-coupling reactions)
+- Organic Intermediates: Stability and Structure of Carbocations, Carbanions, Radicals
+- Aromatics and Heterocycles: Aromaticity, Heterocycles (3, 4, 5, 6 Membered and Fused Systems)
+- Organic Transformations: Making Useful Drugs (Two Examples), Dyes (Addition, Elimination, Substitution, Cross-Coupling Reactions)
 
 ### Module 4: Energy Devices
-- **Electrochemical and Electrolytic Cells**
-  - Electrode materials (e.g., semiconductors)
-  - Electrode-electrolyte interface
-- **Chemistry of Energy Storage**
-  - Li-ion secondary batteries
-  - Supercapacitors
-  - Fuel Cells
-    - H2-O2 Fuel Cells
-    - Solid Oxide Fuel Cells (SOFC)
-- **Solar Cells**
-  - Photovoltaic Cells (silicon-based)
-  - Photoelectrochemical Cells
-  - Dye-Sensitized Cells
+- Electrochemical and Electrolytic Cells: Electrode Materials, Electrode-Electrolyte Interface
+- Chemistry of Energy Storage: Li-Ion Secondary Batteries, Supercapacitors
+- Fuel Cells: H2-O2 Fuel Cells, Solid Oxide Fuel Cells (SOFC)
+- Solar Cells: Photovoltaic Cells, Photoelectrochemical Cells, Dye-Sensitized Cells
 
 ### Module 5: Functional Materials
-- **Oxides**
-  - AB, AB2, ABO3 types (specific examples)
-- **Composites**
-  - Types
-  - Properties
-- **Polymers**
-  - Thermosetting and thermoplastic polymers
-  - Synthesis and applications (e.g., TEFLON, BAKELITE)
-- **Conducting Polymers**
-  - Polyacetylene
-  - Effect of doping
-- **Chemistry of Display Devices**
-  - Specific to OLEDs
-- **Nanomaterials**
-  - Introduction
-  - Bulk vs Nano (quantum dots)
-  - Top-down and bottom-up approaches for synthesis
-  - Properties of Nano Au
+- Oxides: AB, AB2, ABO3 Types
+- Composites: Types, Properties
+- Polymers: Thermosetting and Thermoplastic Polymers (TEFLON, BAKELITE)
+- Conducting Polymers: Polyacetylene, Doping Effects
+- Chemistry of Display Devices: OLEDs
+- Nanomaterials: Bulk vs Nano, Top-Down and Bottom-Up Approaches, Properties of Nano Au
 
 ### Module 6: Spectroscopic, Diffraction, and Microscopic Techniques
-- **Fundamental Concepts**
-  - Spectroscopic and instrumental techniques
-  - Principle and applications
-- **UV-Visible Spectroscopy**
-- **X-Ray Diffraction (XRD) techniques**
-  - Numerical problems
-- **Overview of Various Techniques**
-  - Atomic Absorption Spectroscopy (AAS)
-  - Infrared Spectroscopy (IR)
-  - Nuclear Magnetic Resonance (NMR)
-  - Scanning Electron Microscopy (SEM)
-  - Transmission Electron Microscopy (TEM)
+- Spectroscopic and Instrumental Techniques: Principles and Applications
+- UV-Visible Spectroscopy, X-Ray Diffraction (XRD), Atomic Absorption Spectroscopy (AAS), Infrared Spectroscopy (IR), Nuclear Magnetic Resonance (NMR)
+- Microscopy: Scanning Electron Microscopy (SEM), Transmission Electron Microscopy (TEM)
 
 ### Module 7: Industrial Applications
-- **Water Purification Methods**
-  - Zeolites
-  - Ion-exchange resins
-  - Reverse osmosis
-- **Fuels and Combustion**
-  - Low Calorific Value (LCV)
-  - High Calorific Value (HCV)
-  - Bomb calorimeter (numerical problems)
-  - Anti-knocking agents
-- **Protective Coatings for Corrosion Control**
-  - Cathodic and anodic protection
-  - Physical Vapor Deposition (PVD) technique
-- **Chemical Sensors for Environmental Monitoring**
-  - Gas sensors
-- **Overview of Computational Methodologies**
-  - Energy minimization
-  - Conformational analysis
+- Water Purification Methods: Zeolites, Ion-Exchange Resins, Reverse Osmosis
+- Fuels and Combustion: LCV, HCV, Bomb Calorimeter (Numerical Problems), Anti-Knocking Agents
+- Protective Coatings for Corrosion Control: Cathodic and Anodic Protection, Physical Vapor Deposition (PVD)
+- Chemical Sensors for Environmental Monitoring: Gas Sensors
+- Computational Methodologies: Energy Minimization, Conformational Analysis
+
+## Assignment Questions
+
+1. **Assignment Question 1:**
+   - Description or link to the assignment question.
+
+2. **Assignment Question 2:**
+   - Description or link to the assignment question.
+
+3. **Assignment Question 3:**
+   - Description or link to the assignment question.
+
+## Contributing
+
+If you have any additional notes, assignments, or question papers that you would like to contribute, please get in touch. Your contributions are greatly appreciated!
+
+## Get in Touch! 📬
+
+Feel free to slide into my DMs for:
+
+- Any queries ❓
+- Collab requests 🤝
+- Study tips 📚
+- Or just some friendly tech talk! 💬
+
+### Socials 📱
+
+- **Twitter**: [@PajamaPadhai](https://twitter.com/PajamaPadhai)
+- **Instagram**: [@PajamaPadhai](https://instagram.com/PajamaPadhai)
+
+Or drop me an email at: **pajamapadhai@gmail.com**
 
 ---
 
-Let’s dive deep into the world of Chemistry! 🚀
+Let’s study, stay comfy, and ace the chemistry world! Happy learning! 🧪✨
